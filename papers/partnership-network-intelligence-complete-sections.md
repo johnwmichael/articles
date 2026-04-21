@@ -18,25 +18,25 @@ This document provides direct links to all sections of the complete Partnership 
 📄 [View Abstract](./partnership-network-intelligence-paper.md#abstract) - Novel theoretical framework summary
 
 **2. Literature Review (2,600 words)**  
-📄 [Full Literature Review](../../collaborative-blueprint/network-vision/04-literature-review-section.md) - Comprehensive academic foundation
+📄 [Full Literature Review](./sections/04-literature-review-section.md) - Comprehensive academic foundation
 
 **3. Theoretical Framework (4,000 words)**  
-📄 [Complete Framework](../../collaborative-blueprint/network-vision/07-theoretical-framework.md) - Core Partnership Network Intelligence theory
+📄 [Complete Framework](./sections/07-theoretical-framework.md) - Core Partnership Network Intelligence theory
 
 **4. Methodology (2,800 words)**  
-📄 [Research Methodology](../../collaborative-blueprint/network-vision/05-methodology-section.md) - Longitudinal case study approach
+📄 [Research Methodology](./sections/05-methodology-section.md) - Longitudinal case study approach
 
 **5. Empirical Evidence (5,000 words)**  
-📄 [Empirical Findings](../../collaborative-blueprint/network-vision/08-empirical-evidence.md) - 8+ weeks documented collaboration data
+📄 [Empirical Findings](./sections/08-empirical-evidence.md) - 8+ weeks documented collaboration data
 
 **6. Risk Analysis & Mitigation (5,000 words)**  
-📄 [Enterprise Risk Framework](../../collaborative-blueprint/network-vision/09-risk-analysis.md) - Comprehensive implementation strategy
+📄 [Enterprise Risk Framework](./sections/09-risk-analysis.md) - Comprehensive implementation strategy
 
 **7. Discussion (4,000 words)**  
-📄 [Academic Discussion](../../collaborative-blueprint/network-vision/10-discussion-section.md) - Implications for organizations and society
+📄 [Academic Discussion](./sections/10-discussion-section.md) - Implications for organizations and society
 
 **8. Conclusion & Future Research (2,800 words)**  
-📄 [Conclusion](../../collaborative-blueprint/network-vision/11-conclusion-section.md) - Research agenda and call to action
+📄 [Conclusion](./sections/11-conclusion-section.md) - Research agenda and call to action
 
 ### Supporting Research Materials
 
