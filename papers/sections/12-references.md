@@ -1,46 +1,46 @@
 # References
 
-*[Academic formatting note: References formatted for Management Science submission style]*
+*[Academic formatting note: References formatted for Organization Science submission - APA style with DOIs]*
 
-Ackerman, M. S., & Malone, T. W. (1990). Answer Garden: A tool for growing organizational memory. *ACM Transactions on Information Systems*, 8(4), 286-321.
+Ackerman, M. S., & Malone, T. W. (1990). Answer Garden: A tool for growing organizational memory. *ACM Transactions on Information Systems*, 8(4), 286-321. https://doi.org/10.1145/102675.102681
 
-Afuah, A., & Tucci, C. L. (2012). Crowdsourcing as a solution to distant search. *Academy of Management Review*, 37(3), 355-375.
+Afuah, A., & Tucci, C. L. (2012). Crowdsourcing as a solution to distant search. *Academy of Management Review*, 37(3), 355-375. https://doi.org/10.5465/amr.2010.0146
 
-Ananny, M. (2016). Toward an ethics of algorithms: Convening, observation, probability, and timeliness. *Science, Technology, & Human Values*, 41(1), 93-117.
+Ananny, M. (2016). Toward an ethics of algorithms: Convening, observation, probability, and timeliness. *Science, Technology, & Human Values*, 41(1), 93-117. https://doi.org/10.1177/0162243915606523
 
-Argote, L., & Ingram, P. (2000). Knowledge transfer: A basis for competitive advantage in firms. *Organizational Behavior and Human Decision Processes*, 82(1), 150-169.
+Argote, L., & Ingram, P. (2000). Knowledge transfer: A basis for competitive advantage in firms. *Organizational Behavior and Human Decision Processes*, 82(1), 150-169. https://doi.org/10.1006/obhd.2000.2893
 
-Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. *Journal of Economic Perspectives*, 29(3), 3-30.
+Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. *Journal of Economic Perspectives*, 29(3), 3-30. https://doi.org/10.1257/jep.29.3.3
 
-Bakici, T., Almirall, E., & Wareham, J. (2013). A smart city initiative: The case of Barcelona. *Journal of the Knowledge Economy*, 4(2), 135-148.
+Bakici, T., Almirall, E., & Wareham, J. (2013). A smart city initiative: The case of Barcelona. *Journal of the Knowledge Economy*, 4(2), 135-148. https://doi.org/10.1007/s13132-012-0084-9
 
-Barabási, A. L., & Albert, R. (1999). Emergence of scaling in random networks. *Science*, 286(5439), 509-512.
+Barabási, A. L., & Albert, R. (1999). Emergence of scaling in random networks. *Science*, 286(5439), 509-512. https://doi.org/10.1126/science.286.5439.509
 
-Bernardo, A. E., & Welch, I. (2001). On the evolution of overconfidence and entrepreneurs. *Journal of Economics & Management Strategy*, 10(3), 301-330.
+Bernardo, A. E., & Welch, I. (2001). On the evolution of overconfidence and entrepreneurs. *Journal of Economics & Management Strategy*, 10(3), 301-330. https://doi.org/10.1162/105864001316907964
 
 Bonabeau, E. (2009). Decisions 2.0: The power of collective intelligence. *MIT Sloan Management Review*, 50(2), 45-52.
 
-Borgatti, S. P., & Cross, R. (2003). A relational view of information seeking and learning in social networks. *Management Science*, 49(4), 432-445.
+Borgatti, S. P., & Cross, R. (2003). A relational view of information seeking and learning in social networks. *Management Science*, 49(4), 432-445. https://doi.org/10.1287/mnsc.49.4.432.14428
 
 Brynjolfsson, E., & McAfee, A. (2014). *The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies*. W. W. Norton & Company.
 
-Burt, R. S. (2005). *Brokerage and Closure: An Introduction to Social Capital*. Oxford University Press.
+Burt, R. S. (2005). *Brokerage and Closure: An Introduction to Social Capital*. Oxford University Press. https://doi.org/10.1093/acprof:oso/9780199249145.001.0001
 
-Cabitza, F., Rasoini, R., & Gensini, G. F. (2017). Unintended consequences of machine learning in medicine. *JAMA*, 318(6), 517-518.
+Cabitza, F., Rasoini, R., & Gensini, G. F. (2017). Unintended consequences of machine learning in medicine. *JAMA*, 318(6), 517-518. https://doi.org/10.1001/jama.2017.7797
 
 Castells, M. (2015). *Networks of Outrage and Hope: Social Movements in the Internet Age*. John Wiley & Sons.
 
 Christakis, N. A., & Fowler, J. H. (2009). *Connected: The Surprising Power of Our Social Networks and How They Shape Our Lives*. Little, Brown and Company.
 
-Coleman, J. S. (1988). Social capital in the creation of human capital. *American Journal of Sociology*, 94, S95-S120.
+Coleman, J. S. (1988). Social capital in the creation of human capital. *American Journal of Sociology*, 94, S95-S120. https://doi.org/10.1086/228943
 
-Colquitt, J. A., Sabey, T. B., Rodell, J. B., & Hill, E. T. (2019). Content validation guidelines: Evaluation criteria for definitional correspondence and definitional distinctiveness. *Journal of Applied Psychology*, 104(10), 1243-1265.
+Colquitt, J. A., Sabey, T. B., Rodell, J. B., & Hill, E. T. (2019). Content validation guidelines: Evaluation criteria for definitional correspondence and definitional distinctiveness. *Journal of Applied Psychology*, 104(10), 1243-1265. https://doi.org/10.1037/apl0000406
 
 Cross, R., & Parker, A. (2004). *The Hidden Power of Social Networks: Understanding How Work Really Gets Done in Organizations*. Harvard Business Press.
 
-Cui, H., & Yasseri, T. (2024). AI-enhanced collective intelligence. *Proceedings of the National Academy of Sciences*, 121(11), e2309535121.
+Cui, H., & Yasseri, T. (2024). AI-enhanced collective intelligence. *Proceedings of the National Academy of Sciences*, 121(11), e2309535121. https://doi.org/10.1073/pnas.2309535121
 
-Daft, R. L., & Lengel, R. H. (1986). Organizational information requirements, media richness and structural design. *Management Science*, 32(5), 554-571.
+Daft, R. L., & Lengel, R. H. (1986). Organizational information requirements, media richness and structural design. *Management Science*, 32(5), 554-571. https://doi.org/10.1287/mnsc.32.5.554
 
 Davenport, T. H., & Kirby, J. (2016). Only humans need apply: Winners and losers in the age of smart machines. *Harvard Business Review*, 94(6), 62-69.
 
