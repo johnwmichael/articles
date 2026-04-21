@@ -41,14 +41,14 @@ This document provides direct links to all sections of the complete Partnership 
 ### Supporting Research Materials
 
 **🏗️ Foundational Research**
-- [Theoretical Foundation](../../collaborative-blueprint/network-vision/01-theoretical-foundation.md)
-- [Paper Outline](../../collaborative-blueprint/network-vision/02-paper-outline.md) 
-- [Literature Review Foundation](../../collaborative-blueprint/network-vision/03-literature-review-foundation.md)
+- [Theoretical Foundation](./sections/01-theoretical-foundation.md)
+- [Paper Outline](./sections/02-paper-outline.md) 
+- [Literature Review Foundation](./sections/03-literature-review-foundation.md)
 
 **📋 Research Documentation**
-- [Case Study: Research Breakthrough Session](../../collaborative-blueprint/case-studies/01-research-breakthrough-session.md)
-- [Collaborative Blueprint README](../../collaborative-blueprint/README.md)
-- [Philosophy: The Collaboration Gap](../../collaborative-blueprint/philosophy/01-the-collaboration-gap.md)
+- [Case Study: Research Breakthrough Session](./sections/01-research-breakthrough-session.md)
+- [Collaborative Blueprint README](./sections/collaborative-blueprint-readme.md)
+- [Philosophy: The Collaboration Gap](./sections/01-the-collaboration-gap.md)
 
 ---
 
