@@ -1,0 +1,30 @@
+Partnership Network Intelligence: A Framework for Human-AI Collaborative Networks
+
+Running Head: Partnership Network Intelligence
+
+John Michael
+University of Washington, Human Centered Design & Engineering
+Seattle, WA, USA
+john@humanloopmedia.com
+
+
+ABSTRACT
+
+Despite billions invested in enterprise AI, approximately 80% of organizations report minimal return on investment from their artificial intelligence initiatives. Current approaches prioritize "orchestration models" that treat AI as managed resources within control systems, focusing on task automation rather than intelligence enhancement. This paper introduces Partnership Network Intelligence—a novel theoretical framework where sustained human-AI collaborative partnerships function as network nodes, creating emergent organizational capabilities through partnership-to-partnership interaction.
+
+Building on collective intelligence research and organizational network theory, we propose that human-AI partnerships, rather than individual humans using AI tools, should constitute the fundamental units of intelligent organizational networks. This represents a paradigm shift from managing AI to partnering with AI, with profound implications for organizational design and competitive capability development.
+
+Our longitudinal case study documented eight weeks of intensive human-AI collaboration, analyzing over 200 hours of interaction data. The partnership evolved from task-based interaction to creative co-creation, producing breakthrough innovations neither partner could achieve independently, with preliminary network effects validating partnership network intelligence principles.
+
+This research contributes novel theoretical integration while providing empirical evidence for partnership-based organizational intelligence. Competitive advantage increasingly depends on developing and networking human-AI collaborative partnerships rather than simply deploying AI tools.
+
+Keywords: Human-AI collaboration, collective intelligence, organizational networks, partnership intelligence, enterprise AI, collaborative networks, network theory
+
+
+1. INTRODUCTION
+
+The enterprise artificial intelligence revolution has failed to deliver on its promise. Despite over $100 billion in global AI investment, approximately 80% of organizations report minimal return on investment from their artificial intelligence initiatives (McKinsey, 2023). Current approaches to organizational AI implementation prioritize what we term "orchestration models"—frameworks that treat AI systems as managed resources within hierarchical control structures, focusing primarily on task automation rather than genuine intelligence enhancement.
+
+This paper introduces Partnership Network Intelligence (PNI), a novel theoretical framework that reconceptualizes the fundamental unit of organizational intelligence. Rather than viewing AI as tools to be deployed or resources to be managed, PNI proposes that sustained human-AI collaborative partnerships should function as network nodes within organizational intelligence systems. These partnership nodes create emergent capabilities through their interactions with other partnership nodes, generating collective intelligence that exceeds the capabilities of either traditional human teams or AI systems operating independently...
+
+[Content continues - this is clean text ready for Google Docs!]
