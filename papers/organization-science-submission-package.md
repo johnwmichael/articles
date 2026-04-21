@@ -14,7 +14,7 @@ John Michael is the founder of Human Loop Media and holds a Master of Science in
 
 His research interests center on human-AI collaboration, organizational intelligence networks, and the practical implementation of collective intelligence frameworks in enterprise settings. This research emerged from over 200 hours of documented collaborative partnership with Claude (Anthropic), representing one of the most extensive longitudinal studies of sustained human-AI collaboration currently documented in academic literature.
 
-Michael brings a unique perspective combining academic rigor with practical implementation experience, approaching organizational AI challenges from both theoretical and applied perspectives. He has taught courses in user experience design at University of Washington and California Polytechnic State University.
+John brings a unique perspective combining academic rigor with practical implementation experience, approaching organizational AI challenges from both theoretical and applied perspectives. He has taught courses in user experience design at University of Washington and California Polytechnic State University.
 
 ## Conflict of Interest Statement
 
