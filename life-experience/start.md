@@ -28,6 +28,18 @@ What the ICA was (verified context, not memory):
 
 What that meant for me is the next part of the story: a childhood lived inside a multinational community of families who had committed their lives to human development — and, eventually, streets in Kreuzberg.
 
+## Part Three: Joining — Age Three, and a Camp in New Orleans
+
+My parents joined the ICA when I was about three years old — roughly 1970–71.
+
+As part of that joining, I was sent alone to a camp in New Orleans. I don't know its name. What I know is that I went, and that I went alone.
+
+Research leads (archiveist notes, verified where marked):
+
+- The OE/EI/ICA community maintains a repository at wiki.wedgeblade.net with firsthand accounts from second-generation members ("Children of the Order"). One account names "Camp New Jerusalem, 1971, in New Orleans" — which closely matches this timeline. *(Single source; unverified.)*
+- The Ecumenical Institute had a religious house in New Orleans by 1971, consistent with a camp there. *(Verified from repository history documents.)*
+- Hypothesis (to verify): new colleagues went through intensive training on joining, and children were housed separately during that period — a camp in New Orleans may have served that function.
+
 ## Threads I Can See (archiveist observation, not settled fact)
 
 - An Austrian grandmother may be the first German-language thread in the family — decades before I was the kid fluent in German in West Berlin.
@@ -40,7 +52,9 @@ What that meant for me is the next part of the story: a childhood lived inside a
 - [ ] What did Dad tell me about Hayes, about football, about that era of his life?
 - [ ] Grandmother's name, and where in Austria she was from.
 - [ ] Grandfather's name — and what is known about his life and death.
-- [ ] How did my parents come to join the ICA? Who brought them in, and when?
+- [ ] How did my parents come to join the ICA? Who brought them in? *(Anchor: they joined when I was about three — roughly 1970–71.)*
+- [ ] The camp in New Orleans: name, year, how long I stayed — and what I actually remember, if anything, versus what I was told later.
+- [ ] Where were my parents during the camp — in training in Chicago?
 - [ ] Did we live *in* 4750 N. Sheridan, or in an ICA house nearby? What was communal family life like day to day?
 - [ ] How did we get from the ICA in Chicago to Kreuzberg, West Berlin? Was Berlin an ICA assignment?
 - [ ] When did the family leave the ICA — and what did leaving cost?
