@@ -1,28 +1,51 @@
-# Start — My Father's Family
+# Start — The Beginning
 
-**Status:** First recollections recorded; details still sparse.
-**Place:** Rural Hamilton, Ohio — Mason-Hamilton Road.
+**Status:** Living draft. First stories as told by John Michael; verified historical context is clearly separated.
+**Place:** Hamilton, Ohio → Chicago, Illinois → (to be continued: West Berlin)
 
 ---
 
-## What I Remember / Have Been Told
+## Part One: Mason-Hamilton Road
 
-My father grew up in a rural area on Mason-Hamilton Road, outside Hamilton, Ohio. He played college football under Woody Hayes as an offensive lineman.
+My father grew up in rural Ohio, on Mason-Hamilton Road, outside the city of Hamilton. He was big enough and good enough to play college football as an offensive lineman — under Woody Hayes, one of the most storied coaches the game has known.
 
-My grandmother was Austrian and spoke with an accent. I never met my grandfather; he died young.
+That's nearly all I have of that generation, and even less before it:
 
-I don't know much more about this part of the family story yet. This is where the archive begins—not with a polished biography, but with what I have and the gaps around it.
+- My **grandmother was Austrian**. She spoke with an accent. Whatever else her life had been — a crossing of the Atlantic, a new language, a farm county in Ohio — I know her mainly as a sound and a presence from childhood.
+- I **never met my grandfather**. He died young, and with him must have gone stories nobody thought to write down.
 
-## Details to Add as They Come Back
+This is where the archive begins: not with a polished biography, but with what I actually have — a road in Ohio, a football coach's name, an accent, and an empty chair at the table.
 
-- [ ] Father's name, siblings, and the household he grew up in
-- [ ] Which college he played for, and when
-- [ ] What Dad told me about Woody Hayes, football, and that time in his life
-- [ ] Grandmother's name, where in Austria she came from, and the words or stories I remember from her
-- [ ] Grandfather's name and what is known about his life and death
-- [ ] What Mason-Hamilton Road and the surrounding countryside were like when Dad was young
-- [ ] How and when our family story moved from Ohio to Berlin
+## Part Two: The ICA — 4750 N. Sheridan Road
 
-## Archive Note
+I didn't grow up on Mason-Hamilton Road. I grew up inside an organization: the **Institute of Cultural Affairs (ICA)**, headquartered at **4750 North Sheridan Road, Chicago** — an address I know the way other people know their childhood street.
 
-This is a living record. Keep confirmed memories in the first-person voice; label family stories as things I was told, and don't fill gaps with guesses. Historical context can be added separately and clearly distinguished from what I personally remember.
+What the ICA was (verified context, not memory):
+
+- It grew out of the **Ecumenical Institute** in Chicago, and was incorporated separately in **1973** to carry its methods of human development to communities and organizations worldwide, on a secular footing.
+- Its people included the **Order: Ecumenical** — a religious order formed primarily by *families of volunteers*, who lived and worked together in community.
+- By the mid-1970s the ICA had expanded from Chicago to **over 100 houses in 30 countries** — a worldwide network of residential houses where colleagues lived communally and did community-development work.
+
+What that meant for me is the next part of the story: a childhood lived inside a multinational community of families who had committed their lives to human development — and, eventually, streets in Kreuzberg.
+
+## Threads I Can See (archiveist observation, not settled fact)
+
+- An Austrian grandmother may be the first German-language thread in the family — decades before I was the kid fluent in German in West Berlin.
+- The ICA was, functionally, an international human network decades before "network intelligence" was a phrase — families moving between houses, shared methods, shared meals, shared purpose. It is hard to believe that left no mark on how I think about collaboration.
+- How the Ohio football player's family ended up inside a Chicago-based human-development order is a story I don't yet have. That question goes near the top of the list.
+
+## Questions for the Record
+
+- [ ] Which college did Dad play for under Woody Hayes — Ohio State, or another program? What years?
+- [ ] What did Dad tell me about Hayes, about football, about that era of his life?
+- [ ] Grandmother's name, and where in Austria she was from.
+- [ ] Grandfather's name — and what is known about his life and death.
+- [ ] How did my parents come to join the ICA? Who brought them in, and when?
+- [ ] Did we live *in* 4750 N. Sheridan, or in an ICA house nearby? What was communal family life like day to day?
+- [ ] How did we get from the ICA in Chicago to Kreuzberg, West Berlin? Was Berlin an ICA assignment?
+- [ ] When did the family leave the ICA — and what did leaving cost?
+
+## Archive Notes
+
+- Confirmed memories go in first-person voice. Family stories are labeled as things I was told. Historical context is added separately and labeled.
+- Gaps are left open, not filled with guesses.
