@@ -40,6 +40,32 @@ Research leads (archiveist notes, verified where marked):
 - The Ecumenical Institute had a religious house in New Orleans by 1971, consistent with a camp there. *(Verified from repository history documents.)*
 - Hypothesis (to verify): new colleagues went through intensive training on joining, and children were housed separately during that period — a camp in New Orleans may have served that function.
 
+## Part Four: The Map — A Childhood Across the ICA's World
+
+The places I lived, in the order I remember them:
+
+1. **Houston, Texas**
+2. **Kansas City**
+3. **Chicago**
+4. **Majuro, Marshall Islands**
+5. **West Berlin, Germany** — Kreuzberg
+6. **Kuala Lumpur, Malaysia**
+7. **Sungai Lui, Malaysia**
+8. **A student house in Chicago**
+9. **San Francisco** — through high school
+
+What the historical record shows (verified, distinct from my memory):
+
+- **Majuro:** The Marshall Islands Human Development Project was initiated in 1975 with a planning consult of 38 volunteer experts in business, community development, food production, education, and mechanics. (Shelterforce, 2017)
+- **Sungai Lui:** An ICA Human Development Project in a Malay village, significant enough to be the subject of a peer-reviewed study — "A Malay Village That Progress Chose: Sungai Lui and the Institute of Cultural Affairs," *Human Organization*, Vol. 42, No. 1 (1983).
+- **Kreuzberg Ost, Berlin:** Listed among the ICA's "Band of 24" Human Development Projects — a coordinated global program of community-development sites launched in the mid-to-late 1970s. (ICA Global Archives; Shelterforce, 2017)
+
+**Archiveist observation:** Three of the places on my childhood list — Majuro, Kreuzberg Ost, Sungai Lui — appear on the ICA's documented project map. My childhood wasn't just *near* the ICA's work; it moved along the ICA's global network as it happened.
+
+On the student house in Chicago: second-generation accounts describe a documented pattern where ICA children were gathered in Chicago around 6th–7th grade to live together in "student houses." The timeline fits my age. What it was like for me is mine to tell, and comes later in this record.
+
+On my parents' joining: as I understand the family story, **my mother pushed the ICA decision and my father followed her into it.** That's my reading of what happened — family interpretation, not verified fact.
+
 ## Threads I Can See (archiveist observation, not settled fact)
 
 - An Austrian grandmother may be the first German-language thread in the family — decades before I was the kid fluent in German in West Berlin.
@@ -48,6 +74,13 @@ Research leads (archiveist notes, verified where marked):
 
 ## Questions for the Record
 
+- [ ] My birth year, and the years we lived in each place: Houston, Kansas City, Chicago, Majuro, Berlin, Kuala Lumpur, Sungai Lui, student house Chicago, San Francisco.
+- [ ] Was the Berlin house the Kreuzberg Ost Human Development Project? Which streets, which building?
+- [ ] Majuro memories — how old was I, how long did we stay, what does an atoll look like through a child's eyes?
+- [ ] Sungai Lui memories — village life, school, language. And: read the 1983 *Human Organization* paper about the village I lived in.
+- [ ] The student house in Chicago: my age going in, how long, what daily life was like — my own account to be recorded in its own chapter.
+- [ ] San Francisco: had the family left the ICA by then, or was SF an ICA house? What ended the ICA chapter?
+- [ ] The family story of my mother bringing my father into the ICA — who recruited them, and how did Dad, an Ohio lineman under Woody Hayes, come to say yes?
 - [ ] Which college did Dad play for under Woody Hayes — Ohio State, or another program? What years?
 - [ ] What did Dad tell me about Hayes, about football, about that era of his life?
 - [ ] Grandmother's name, and where in Austria she was from.
