@@ -52,7 +52,9 @@ The places I lived, in the order I remember them:
 6. **Kuala Lumpur, Malaysia**
 7. **Sungai Lui, Malaysia**
 8. **A student house in Chicago**
-9. **San Francisco** — through high school
+9. **San Francisco** — through high school; we rented a flat on Laguna Street. I was three years old in Houston. We spent eight months in Majuro. Our family left the ICA about a year after arriving in San Francisco.
+
+*(The exact Laguna Street address was shared as a Zillow link for family-history context; it is omitted from this public archive to avoid publishing a precise residential address.)*
 
 What the historical record shows (verified, distinct from my memory):
 
@@ -74,12 +76,13 @@ On my parents' joining: as I understand the family story, **my mother pushed the
 
 ## Questions for the Record
 
-- [ ] My birth year, and the years we lived in each place: Houston, Kansas City, Chicago, Majuro, Berlin, Kuala Lumpur, Sungai Lui, student house Chicago, San Francisco.
+- [ ] My birth year, and the years we lived in each place: Houston (age 3), Kansas City, Chicago, Majuro (8 months), Berlin, Kuala Lumpur, Sungai Lui, student house Chicago, San Francisco (left ICA about a year after arriving).
 - [ ] Was the Berlin house the Kreuzberg Ost Human Development Project? Which streets, which building?
-- [ ] Majuro memories — how old was I, how long did we stay, what does an atoll look like through a child's eyes?
+- [ ] Majuro memories — we stayed eight months. How old was I, and what does an atoll look like through a child's eyes?
 - [ ] Sungai Lui memories — village life, school, language. And: read the 1983 *Human Organization* paper about the village I lived in.
 - [ ] The student house in Chicago: my age going in, how long, what daily life was like — my own account to be recorded in its own chapter.
-- [ ] San Francisco: had the family left the ICA by then, or was SF an ICA house? What ended the ICA chapter?
+- [x] San Francisco: we rented a flat on Laguna Street; the family left the ICA about a year after arriving in SF.
+- [ ] What ended the ICA chapter for my family? What changed after we left?
 - [ ] The family story of my mother bringing my father into the ICA — who recruited them, and how did Dad, an Ohio lineman under Woody Hayes, come to say yes?
 - [ ] Which college did Dad play for under Woody Hayes — Ohio State, or another program? What years?
 - [ ] What did Dad tell me about Hayes, about football, about that era of his life?
