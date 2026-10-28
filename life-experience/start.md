@@ -1,7 +1,7 @@
 # Start — The Beginning
 
 **Status:** Living draft. First stories as told by John Michael; verified historical context is clearly separated.
-**Place:** Hamilton, Ohio → Chicago, Illinois → (to be continued: West Berlin)
+**Place:** Mason-Hamilton Road (father's Ohio) → 4750 N. Sheridan, Chicago → the ICA's map: Houston … San Francisco
 
 ---
 
@@ -68,11 +68,20 @@ On the student house in Chicago: second-generation accounts describe a documente
 
 On my parents' joining: as I understand the family story, **my mother pushed the ICA decision and my father followed her into it.** That's my reading of what happened — family interpretation, not verified fact.
 
+## Part Five: What the Map Felt Like
+
+My parents were mostly absent.
+
+That's the plain fact underneath the whole map. I was three when they joined the ICA; whatever raised me after that was partly my parents and partly the structure they had joined — houses, colleagues, other children.
+
+And school, in my own words: *"I was advanced a grade because I came from someplace else, not because I was smart."* Nine moves don't come with clean school records; placement by age was the routine for kids like me. That's my reading of it — the map leaving its mark on my file.
+
 ## Threads I Can See (archiveist observation, not settled fact)
 
 - An Austrian grandmother may be the first German-language thread in the family — decades before I was the kid fluent in German in West Berlin.
 - The ICA was, functionally, an international human network decades before "network intelligence" was a phrase — families moving between houses, shared methods, shared meals, shared purpose. It is hard to believe that left no mark on how I think about collaboration.
 - How the Ohio football player's family ended up inside a Chicago-based human-development order is a story I don't yet have. That question goes near the top of the list.
+- The throughline so far: sent alone to a camp at three, parents mostly absent, advanced a grade for arriving — a childhood arranged largely around the organization's needs. The counter-question the archive will eventually need: who *was* there?
 
 ## Questions for the Record
 
@@ -83,6 +92,9 @@ On my parents' joining: as I understand the family story, **my mother pushed the
 - [ ] The student house in Chicago: my age going in, how long, what daily life was like — my own account to be recorded in its own chapter.
 - [x] San Francisco: we rented a flat on Laguna Street; the family left the ICA about a year after arriving in SF.
 - [ ] What ended the ICA chapter for my family? What changed after we left?
+- [ ] Who actually raised me day to day in the houses — colleagues, caregivers, older kids? Names and faces I still carry.
+- [ ] "Mostly absent" in practice: were my parents traveling between projects, or present but consumed by the work?
+- [ ] The grade skip: which school and place, which grade, and what it felt like to be the youngest and the newest at the same time.
 - [ ] The family story of my mother bringing my father into the ICA — who recruited them, and how did Dad, an Ohio lineman under Woody Hayes, come to say yes?
 - [ ] Which college did Dad play for under Woody Hayes — Ohio State, or another program? What years?
 - [ ] What did Dad tell me about Hayes, about football, about that era of his life?
